@@ -1,0 +1,18 @@
+{
+	"name": "esp-timer",
+	"keywords": "timer, esp32",
+	"description": "Timing functions for ESP32",
+	"homepage": "https://github.com/reds6188/esp-timer.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/reds6188/esp-timer.git"
+	},
+	"authors": {
+		"name": "Daniele Rossi",
+		"email": "reds6188@gmail.com",
+		"maintainer": true
+	},
+	"version": "1.0.0",
+	"frameworks": "arduino",
+	"platforms": "espressif32"
+}
